@@ -1,0 +1,23 @@
+# Copy to config.yaml (gitignored) and edit. Every key is optional.
+resume_path: resume.md
+output_dir: output
+
+# Board tokens = the slug in the company's careers URL.
+#   greenhouse: boards.greenhouse.io/<token>   lever: jobs.lever.co/<token>   ashby: jobs.ashbyhq.com/<token>
+companies:
+  greenhouse: [stripe, databricks, airbnb, datadog, snowflake, okta, twilio, asana, dropbox, gitlab]
+  lever: [palantir, netflix]
+  ashby: [ramp, notion, openai]
+
+locations: ["San Francisco", "Bay Area", "California", "Dublin, CA", "Pleasanton", "San Jose"]
+remote_ok: true
+require_location_match: false
+
+max_age_days: 21
+min_ats: 40
+min_callback: 55
+top_n: 30
+
+# years_experience: 16            # override resume inference
+# has_management_experience: true
+# extra_keywords: {"Workday": "workday"}

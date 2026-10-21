@@ -1,4 +1,7 @@
-# Nightly cloud routine (1:00am US Pacific)
+# Nightly cloud routine (1:00am US Pacific) — Claude Code version
+
+This is the Claude Code way to schedule it. For other AI tools or plain cron/GitHub Actions see the README
+(Option A/B) and `docs/AI_AGENT_INSTRUCTIONS.md`; the scoring engine is the same.
 
 The routine is a scheduled Claude Code cloud session. Each night it starts from a
 fresh clone of this repo, so nothing depends on your laptop.

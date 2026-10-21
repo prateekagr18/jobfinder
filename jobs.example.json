@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Engineering Manager, Platform",
+    "company": "Example Corp",
+    "location": "San Jose, CA",
+    "url": "https://example.com/jobs/123",
+    "source": "indeed",
+    "posted_at": "2026-10-17",
+    "remote": false,
+    "description": "Lead a team of engineers building a scalable platform. Java, Spring, microservices, distributed systems, SQL. Hiring, mentoring, performance management, roadmap with product. 8+ years experience, 3+ years managing. Nice to have: Kafka, Kubernetes."
+  }
+]
